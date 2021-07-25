@@ -27,5 +27,5 @@ jobs:
 
     # Runs a single command using the runners shell
       - name: Compile cpp file
-        run: g++ hello_world.cpp
+        run: g++ hello_universe.cpp
 
